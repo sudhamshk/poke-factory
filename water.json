@@ -1,0 +1,9 @@
+{
+    "type": "water",
+    "pokemon": [
+        {
+            "number": 7,
+            "name": "Squirtle"
+        }
+    ]
+}
